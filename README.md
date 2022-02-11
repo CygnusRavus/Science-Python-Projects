@@ -3,7 +3,12 @@ Python projects for educational purposes
 
 ## Gravity: Planetary Orbital Motion
 Difficulty: 3/5
-Running a simulation of planetary orbital motion between two bodies using numerical integration.
+Numerical simulation of planetary orbital motion between a massive body and a planet
 
 ## Collisions: An Ideal Gas
-Difficulty: 
+Difficulty: 3/5
+Monte-Carlo collisions between particles to approximate the Boltzmann distribution
+
+## Polymer Chain Reaction
+Difficulty: 2/5
+Numerical model of rates of reactions, to predict the yields of a particular product
