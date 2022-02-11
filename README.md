@@ -1,5 +1,7 @@
 # Science-Python-Projects
-Python projects for educational purposes. The difficulty rating considers both the prerequisite knowledge needed, as well as the level of computational thinking required.
+Python projects for educational purposes. The difficulty rating considers both the prerequisite knowledge needed, as well as the level of computational thinking required. 
+
+Arranged in order of increasing difficulty.
 
 ## Number Theory: Kaprekar's Constant
 Difficulty: 1/5\
