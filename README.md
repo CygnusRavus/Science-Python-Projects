@@ -8,7 +8,7 @@ Difficulty: 1/5\
 Monte-Carlo visualisation of one facet of number theory
 
 ## Statistics: Zipf's Law
-Difficult: 1/5\
+Difficulty: 1/5\
 Large-dataset processing of a text volume to visualise Zipf's law in linguistics
 
 ## Polymer Chain Reaction
