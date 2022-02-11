@@ -1,5 +1,5 @@
 # Science-Python-Projects
-Python projects for educational purposes
+Python projects for educational purposes. The difficulty rating considers both the prerequisite knowledge needed, as well as the level of computational thinking required.
 
 ## Gravity: Planetary Orbital Motion
 Difficulty: 3/5\
@@ -16,3 +16,17 @@ Numerical model of rates of reactions, to predict the yields of a particular pro
 ## PID Controller
 Difficulty: 4/5\
 Numerical model of a Proportional-Integral-Derivative controller, as a learning example of its usage and functionality
+
+## Economics and Vampires [Work-in-progress]
+Difficulty: 4/5\
+An unusual derivative of the Predator-Prey model, as an example of modelling the economics of a population
+
+## Food Science: Pancake in the Oven
+Difficulty: 4/5\
+Numerical simulation of thermal flow across a pancake
+
+## Kinematics: Simple Harmonic Oscillator
+Difficulty: 3/5\
+Numerical simulation of a spring-mass harmonic oscillator with damping terms
+
+##
