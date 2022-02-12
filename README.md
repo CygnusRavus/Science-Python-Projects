@@ -1,5 +1,5 @@
 # Science-Python-Projects
-Python projects for educational purposes. The difficulty rating considers both the prerequisite knowledge needed, as well as the level of computational thinking required. 
+Python projects for educational purposes. The difficulty rating considers both the prerequisite knowledge needed, as well as the level of computational thinking required. The goal is for the student to learn more about python applications, as well as some interesting science
 
 Arranged in order of increasing difficulty.
 
