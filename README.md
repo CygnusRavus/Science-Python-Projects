@@ -15,6 +15,10 @@ Large-dataset processing of a text volume to visualise Zipf's law in linguistics
 Difficulty: 2/5\
 Numerical model of rates of reactions, to predict the yields of a particular product
 
+## Linguistics: Information Entropy
+Difficulty: 2/5\
+Large-dataset processing of a text volume to determine the information content of the English language
+
 ## Gravity: Planetary Orbital Motion
 Difficulty: 3/5\
 Numerical simulation of planetary orbital motion between a massive body and a planet
