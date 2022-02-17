@@ -19,6 +19,10 @@ Numerical model of rates of reactions, to predict the yields of a particular pro
 Difficulty: 2/5\
 Large-dataset processing of a text volume to determine the information content of the English language
 
+## Genetics: Population Genomic Variation
+Difficulty: 2/5\
+Simulation of interbreeding population, and computationally determine the gene pool changes over time
+
 ## Gravity: Planetary Orbital Motion
 Difficulty: 3/5\
 Numerical simulation of planetary orbital motion between a massive body and a planet
